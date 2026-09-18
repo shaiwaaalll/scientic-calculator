@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# scienticcalculator.py
+a simple scientic calculator using python
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Square Root
+- Power
+- Sine, Cosine, Tangent
+- Logarithm
+
+## Run
+
+```bash
+python scientific_calculator.py
+
+shaiwal deep
